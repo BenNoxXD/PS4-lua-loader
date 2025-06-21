@@ -158,7 +158,6 @@ goto
 
 sleep 5
 EOF
-fi
 
 # end while loop or shutdown
 if [[ "$continue" == "ping" ]];
