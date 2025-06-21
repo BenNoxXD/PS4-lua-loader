@@ -23,7 +23,7 @@ How it works:
 ### Optional:
 2. `-killgame=on|off`<br/>
 - default = off
-- When enabled: The server automatically sends a Payload to the PS4 after the elfldr is loaded, which kills the game process. <br/>
+- When enabled: The server automatically sends a Payload to the PS4, which kills the game process. <br/>
 
 3. `-continue=shutdown|ping`
 - default = ping
