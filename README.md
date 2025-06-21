@@ -47,7 +47,7 @@ sudo ./install.sh -ps4_ip=10.0.0.2 -killgame=on -continue=ping
 ```
 
 ### Usage
-If you are using a Raspberry Pi, it's recommended to connect it to one of the PS5's USB power ports. Now the Raspberry Pi will automatically turn on whenever your PS5 boots up. 
+If you are using a Raspberry Pi, it's recommended to connect it to one of the PS4's USB power ports. Now the Raspberry Pi will automatically turn on whenever your PS4 boots up. 
 <br>
 
 ### Uninstall:
