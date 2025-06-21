@@ -15,7 +15,6 @@ function main()
     local pid = syscall.getpid():tonumber()
 
     syscall.resolve({
-        getppid = 39,
         kill = 37,
     })
 
