@@ -132,7 +132,6 @@ goto () {
     python3 send_lua.py $(cat ip.txt) 9026 scripts/bin_loader.lua
   else
     print_yellow "HEN doesn't exist!"
-    python3 send_lua.py $(cat ip.txt) 9026 scripts/no_hen.lua
     python3 test_port.py $(cat ip.txt) 9026 3 close
     goto
   fi
